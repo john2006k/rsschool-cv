@@ -8,6 +8,22 @@
    - Learn to code and find your dream job!
    - I know how to set goals and achieve them
    - I can meet expectations and requirements
+## Educational Software Development Process
+- Good communication in the development team,
+- Conducted an interview with the customer, which allowed us to record the user experience and write out
+functional requirements,
+- Analyzed customer requirements
+- Issued requirements in the form of tickets in GitLab,
+- Designed a solution to the problem
+- Created a plan for the implementation of the task
+- Objectively assessed the amount of work on tasks
+- Planned team work
+- Monitored project progress during iteration
+- Reported on iteration results
+- Ability to write project documentation
+- Managed the team
+- Assessing your abilities and asking for help from the team when needed
+- Reporting difficulties to the manager
 ## Skills
 - HTML5
 - CSS
